@@ -242,6 +242,8 @@ class ControllerAmo {
             ];
 
            $this->sendRequest('POST', $path, $params, $headers);
+
+           return true;
         }
 
 
