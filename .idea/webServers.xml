@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6c01207a-d9c3-4b4a-a2f0-5505f00d1e6d" name="sapa" url="https://45.9.43.228">
+        <fileTransfer rootFolder="/home/emfi" accessType="SFTP" host="45.9.43.228" port="22" sshConfigId="72548ad4-a8f4-4e24-8b1a-f4f1f58bdde3" sshConfig="root@45.9.43.228:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
